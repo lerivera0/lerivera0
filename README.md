@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-I'm Luis, a Full Stack developer with a special crush for back-end development. 
-I am also a doctor, specialist in intensive care. After having established a career in critical medicine, I decided to turn into a full-time developer.
+As a seasoned software engineer with over 15 years of experience, I bring a rich and diverse background in web-oriented projects and a continuous drive for learning. I have worked independently as a freelance programmer, in a small company for diverse projects, and in a large organization. Although I consider myself language-agnostic, I am particularly interested in opportunities involving Ruby on Rails + React environments.
 
-I am distinguished by my entrepreneurial spirit, my ability to analyze and solve problems, my versatility when adapting to new and complex situations, and my experience in communication and leadership of high-performance teams
+## Core Competencies:
+- Full-Stack Development: Expert in both front-end and back-end technologies, delivering robust, scalable, and maintainable solutions.
+- Problem-Solving & TDD: Strong focus on test-driven development, ensuring high-quality code with a low bug rate.
+- Leadership & Communication: Proven ability to lead and nurture high-performance teams, fostering collaboration and innovation.
+- Adaptability: Quick to learn and implement new technologies, tackling complex projects from various perspectives.
+
+## Professional Interests:
+I am passionate about exploring new opportunities that align with my expertise and career aspirations. I am open to connecting with like-minded professionals and discussing potential avenues for collaboration and professional growth.
 
  ## How to reach me:
  
